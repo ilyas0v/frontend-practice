@@ -25,9 +25,9 @@ body {
 }
 
 .box {
+  width: 280px;
   background-color: var(--white);
-  margin: 20px;
-  padding: 20px;
+  padding: 18px;
   border-radius: 20px;
 }
 
